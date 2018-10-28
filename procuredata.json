@@ -609,6 +609,12 @@
 },{
 	"label": "Delivery",
 	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Delivery.jpg" 
+},{
+	"label": "Aloo Pahadi",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/AlooGradeA.jpg"
+},{
+	"label": "Pahadi Aloo",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/AlooGradeA.jpg"
 }
 ]
 
