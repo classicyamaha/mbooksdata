@@ -358,7 +358,13 @@
 	"label": "Amrud",
 	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Amrud.jpg" 
 },{
+	"label": "Guava",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Amrud.jpg" 
+},{
 	"label": "Karaunda",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Karaunda.jpg" 
+},{
+	"label": "Carissa",
 	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Karaunda.jpg" 
 },{
 	"label": "Asparagus",
@@ -418,6 +424,9 @@
 	"label": "Hari Matar",
 	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Hari Matar.jpg" 
 },{
+	"label": "Green Peas",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Hari Matar.jpg" 
+},{
 	"label": "Hari Zucchini",
 	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Hari Zucchini.jpg" 
 },{
@@ -466,7 +475,16 @@
 	"label": "Nashpati",
 	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Nashpati.jpg" 
 },{
+	"label": "Pears",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Nashpati.jpg" 
+},{
 	"label": "Orange",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Orange.jpg" 
+},{
+	"label": "Santra",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Orange.jpg" 
+},{
+	"label": "Narangi",
 	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Orange.jpg" 
 },{
 	"label": "Pakchoy",
@@ -505,6 +523,9 @@
 	"label": "Spring Onion",
 	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Spring Onion.jpg" 
 },{
+	"label": "Hara Pyaaz",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Spring Onion.jpg" 
+},{
 	"label": "Strawberry",
 	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Strawberry.jpg" 
 },{
@@ -517,33 +538,86 @@
 	"label": "Yam",
 	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Yam.jpg" 
 },{
-	"label": "Yellow Capsicum",
+	"label": "Lal Peeli Shimla Mirch",
 	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Yellow Capsicum.jpg" 
+},{
+	"label": "Polythene",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Polythene.jpg" 
+},{
+	"label": "Nikasi",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Nikasi.jpg" 
+},{
+	"label": "Rassi",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Rassi.jpg" 
+},{
+	"label": "Team Building",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Team Building.jpg" 
+},{
+	"label": "Zucchini",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Zucchini.jpg" 
+},{
+	"label": "Aloo Lal",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Aloo Lal.jpg" 
+},{
+	"label": "Lal Aloo",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Aloo Lal.jpg" 
+},{
+	"label": "Potato Red",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Aloo Lal.jpg" 
+},{
+	"label": "Lal Patta Gobhi",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Patta Gobhi Lal.jpg" 
+},{
+	"label": "Aloo Chhota",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/AlooGradeA.jpg"
+},{
+	"label": "Potato Small",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/AlooGradeA.jpg"
+},{
+	"label": "Small Potato",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/AlooGradeA.jpg"
+},{
+	"label": "Chhota Aloo",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/AlooGradeA.jpg"
+},{
+	"label": "Chhota Pyaaz",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Pyaaz.jpg" 
+},{
+	"label": "Pyaaz Chhota",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Pyaaz.jpg" 
+},{
+	"label": "Onion Small",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Pyaaz.jpg" 
+},{
+	"label": "Small Onion",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Pyaaz.jpg" 
+},{
+	"label": "Delivery",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Delivery.jpg" 
+},{
+	"label": "Aloo Pahadi",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/AlooGradeA.jpg"
+},{
+	"label": "Pahadi Aloo",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/AlooGradeA.jpg"
+},{
+	"label": "Sarso Ka Saag",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Sarso Ka Saag.jpg"
+},{
+	"label": "Zimikand",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Zimikand.jpg"
+},{
+	"label": "Sem Phali",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Sem Phali.jpg"
+},{
+	"label": "Hari Mirch Achaar",
+	"image": "https://rawgit.com/classicyamaha/mbooksdata/master/images/Hari Mirch Achaar.jpg"
 }
-
 ]
 
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-  
-   
- 
- 
- 
- 
- 
+
+
+
+
+
