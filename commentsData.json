@@ -1,0 +1,46 @@
+[{
+    "value":"CF",
+    "item":"Chung Fa"
+  },{
+    "value":"SC",
+    "item":"Spice Caves"
+  },{
+    "value":"BC",
+    "item":"Baati Chokha"
+  },{
+    "value":"DP",
+    "item":"Desi Paan"
+  },{
+    "value":"JC",
+    "item":"Jail Road Canteen"
+  },{
+    "value":"TL",
+    "item":"The Leaf"
+  },{
+    "value":"CC",
+    "item":"Coffee Culture"
+  },{
+    "value":"BB",
+    "item":"Burger Bistro"
+  },{
+    "value":"HC",
+    "item":"HashTag Cafe"
+  }, {
+    "value":"LC",
+    "item":"Legends Cafe"
+  },{
+    "value":"SR",
+    "item":"Sagar Ratna"
+  },{
+    "value":"EC",
+    "item":"Effel Cafe"
+  },{
+    "value":"MC",
+    "item":"Mocha Cafe"
+  },{
+    "value":"B2C",
+    "item":"B2C"
+  },{
+    "value":"Other",
+    "item":"Others"
+  },]
