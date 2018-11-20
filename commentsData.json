@@ -17,16 +17,34 @@
     "value":"JRC",
     "item":"Jail Road Canteen"
   },{
+    "value":"BBS",
+    "item":"Burger Beans"
+  },{
+    "value":"FSC",
+    "item":"Free Spirit Cafe"
+  },{
+    "value":"KC",
+    "item":"Kwality Caterers"
+  },{
+    "value":"CK",
+    "item":"Coffee Kopcha"
+  },{
     "value":"TL",
     "item":"The Leaf"
   },{
     "value":"CC",
     "item":"Coffee Culture"
   },{
-    "value":"BB",
+    "value":"BBO",
     "item":"Burger Bistro"
   },{
-    "value":"HC",
+    "value":"TSF",
+    "item":"The Secret Factory"
+  },{
+    "value":"WTR",
+    "item":"Wok To Remember"
+  },{
+    "value":"HT",
     "item":"HashTag Cafe"
   }, {
     "value":"LC",
@@ -36,7 +54,7 @@
     "item":"Sagar Ratna"
   },{
     "value":"EC",
-    "item":"Effel Cafe"
+    "item":"Eiffel Cafe"
   },{
     "value":"MC",
     "item":"Mocha Cafe"
