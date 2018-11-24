@@ -1,32 +1,32 @@
 [{
-    "image":"CF",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Chung Fa.jpg",
     "label":"Chung Fa"
   },{
-    "image":"SC",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Spice Caves.jpg",
     "label":"Spice Caves"
   },{
-    "image":"BC",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Baati Chokha.jpg",
     "label":"Baati Chokha"
   },{
-    "image":"DP",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Desi Paan.jpg",
     "label":"Desi Paan"
   },{
-    "image":"JC",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Jail Road Canteen.jpg",
     "label":"Jail Road Canteen"
   },{
-    "image":"TL",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/The Leaf.jpg",
     "label":"The Leaf"
   },{
-    "image":"CC",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Coffee Culture.jpg",
     "label":"Coffee Culture"
   },{
-    "image":"BB",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Burger Bistro.jpg",
     "label":"Burger Bistro"
   },{
-    "image":"HC",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Hashtag Cafe.jpg",
     "label":"HashTag Cafe"
   }, {
-    "image":"LC",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Legends Cafe.jpg",
     "label":"Legends Cafe"
   },{
     "image":"SR",
@@ -44,27 +44,27 @@
     "image":"Other",
     "label":"Others"
   },{
-    "value":"Petrol",
-    "item":"Petrol"
+    "image":"Petrol",
+    "label":"Petrol"
   },{
-    "value":"Procurement",
-    "item":"Procurement"
+    "image":"Procurement",
+    "label":"Procurement"
   },{
-    "value":"Loan",
-    "item":"Loan"
+    "image":"Loan",
+    "label":"Loan"
   },{
-    "value":"Advance Payment",
-    "item":"Advance Payment"
+    "image":"Advance Payment",
+    "label":"Advance Payment"
   },{
-    "value":"Office Inventory",
-    "item":"Office Inventory"
+    "image":"Office Inventory",
+    "label":"Office Inventory"
   },{
-    "value":"Daala Payment",
-    "item":"Daala Payment"
+    "image":"Daala Payment",
+    "label":"Daala Payment"
   },{
-    "value":"Sales Expenses",
-    "item":"Sales Expenses"
+    "image":"Sales Expenses",
+    "label":"Sales Expenses"
   },{
-    "value":"Operational Expenses",
-    "item":"Operational Expenses"
+    "image":"Operational Expenses",
+    "label":"Operational Expenses"
   }]
