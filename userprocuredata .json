@@ -29,42 +29,42 @@
     "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Legends Cafe.jpg",
     "label":"Legends Cafe"
   },{
-    "image":"SR",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Sagar Ratna.jpg",
     "label":"Sagar Ratna"
   },{
-    "image":"EC",
-    "label":"Effel Cafe"
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Eiffel Cafe.jpg",
+    "label":"Eiffel Cafe"
   },{
-    "image":"MC",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Mocha Cafe.jpg",
     "label":"Mocha Cafe"
   },{
-    "image":"B2C",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/B2C.jpg",
     "label":"B2C"
   },{
-    "image":"Other",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Others.jpg",
     "label":"Others"
   },{
-    "image":"Petrol",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Petrol.jpg",
     "label":"Petrol"
   },{
-    "image":"Procurement",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Procurement.jpg",
     "label":"Procurement"
   },{
-    "image":"Loan",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Loan.jpg",
     "label":"Loan"
   },{
-    "image":"Advance Payment",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Advance Payment.jpg",
     "label":"Advance Payment"
   },{
-    "image":"Office Inventory",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Office Inventory.jpg",
     "label":"Office Inventory"
   },{
-    "image":"Daala Payment",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Daala Payment.jpg",
     "label":"Daala Payment"
   },{
-    "image":"Sales Expenses",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Sales Expenses.jpg",
     "label":"Sales Expenses"
   },{
-    "image":"Operational Expenses",
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Operational Expenses.jpg",
     "label":"Operational Expenses"
   }]
