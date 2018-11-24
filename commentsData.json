@@ -70,4 +70,22 @@
   },{
     "value":"Procurement",
     "item":"Procurement"
+  },{
+    "value":"Loan",
+    "item":"Loan"
+  },{
+    "value":"Advance Payment",
+    "item":"Advance Payment"
+  },{
+    "value":"Office Inventory",
+    "item":"Office Inventory"
+  },{
+    "value":"Daala Payment",
+    "item":"Daala Payment"
+  },{
+    "value":"Sales Expenses",
+    "item":"Sales Expenses"
+  },{
+    "value":"Operational Expenses",
+    "item":"Operational Expenses"
   }]
