@@ -64,4 +64,10 @@
   },{
     "value":"Other",
     "item":"Others"
+  },{
+    "value":"Petrol",
+    "item":"Petrol"
+  },{
+    "value":"Procurement",
+    "item":"Procurement"
   }]
