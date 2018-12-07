@@ -241,4 +241,16 @@
   },{
     "value":"FOI",
     "item":"Food of Indians"
+  },{
+    "value":"COBH",
+    "item":"Catering Order - BH"
+  },{
+    "value":"COMN",
+    "item":"Catering Order - MN"
+  },{
+    "value":"COSC",
+    "item":"Catering Order - SC"
+  },{
+    "value":"COKLS",
+    "item":"Catering Order - KLS"
   }]
