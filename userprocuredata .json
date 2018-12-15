@@ -42,7 +42,10 @@
     "label":"B2C"
   },{
     "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Others.jpg",
-    "label":"Others"
+    "label":"Others - Collection"
+  },{
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Others.jpg",
+    "label":"Others - Payment"
   },{
     "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Petrol.jpg",
     "label":"Petrol"
