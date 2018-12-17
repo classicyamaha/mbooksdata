@@ -8,9 +8,6 @@
     "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Baati Chokha.jpg",
     "label":"Baati Chokha"
   },{
-    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Desi Paan.jpg",
-    "label":"Desi Paan"
-  },{
     "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Jail Road Canteen.jpg",
     "label":"Jail Road Canteen"
   },{
@@ -310,4 +307,7 @@
   },{
     "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Operational Expenses.jpg",
     "label":"Investment by Prabhat"
+  },{
+    "image":"https://rawgit.com/classicyamaha/mbooksdata/master/images/Customer.jpg",
+    "label":"Satkar Restaurant"
   }]

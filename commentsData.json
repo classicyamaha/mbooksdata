@@ -11,9 +11,6 @@
     "value":"BC",
     "item":"Baati Chokha"
   },{
-    "value":"DP",
-    "item":"Desi Paan"
-  },{
     "value":"JRC",
     "item":"Jail Road Canteen"
   },{
@@ -256,4 +253,7 @@
   },{
     "value":"CWL2",
     "item":"Chawlas 2"
+  },{
+    "value":"STKR",
+    "item":"Satkar Restaurant"
   }]
