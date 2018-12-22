@@ -260,6 +260,27 @@
     "value":"CUNG",
     "item":"Cafe Unplugged"
   },{
+    "value":"MAGU",
+    "item":"Masala Guru"
+  },{
+    "value":"RBOG",
+    "item":"Shree Rajbhog"
+  },{
+    "value":"OPAI",
+    "item":"Open Air Restaurant"
+  },{
+    "value":"PEBB",
+    "item":"Pebbles"
+  },{
     "value":"VIBC",
     "item":"Vintage Bliss Cafe"
+  },{
+    "value":"SHBR",
+    "item":"Shangrila Bar"
+  },{
+    "value":"HUNR",
+    "item":"Hungry Resto"
+  },{
+    "value":"FOHT",
+    "item":"Food Haat"
   }]
